@@ -1,52 +1,24 @@
-# Links
-
-* various links
-* sometimes sub link sections
-
-# Goals
-
-### Daily
-
-* daily reminders
-* check calendar
-* share standup
-* etc
-
-### Weekly
-
-* review Asana
-* review Jira
-* weekly reflection
-* etc
-
-### Monthly
-
-* branch cleanup
-* AWS usage monitoring
-* etc
-
-# Weekly Monday template
-see template below, but a template to fill out each Monday
-
-# Current
-
-* current high level
-* team goals
-
-# Symbol Key
-see template below, a key for notes
-
-# Standup
+# Standup template
 
 ### Monday, Oct 11th
 
+* meetings: Stakeholders, PM Weekly, Squad IPM, Squad Retro, 1:1/Name
+* post weekly software template
+* tickets
+   * links to Asana tickets
+   * links to Jira tickets
+* permissions fix (this is likely something that came up mid-day)
+* resolve Solr issues (this is likely something that came up mid-day)
+* research X
+* documentation for Y (link to doc)  
+
 ### Tuesday, Oct 12th
 
-### Wednesday, Oct 13th
+* meetings: Call Center, Another Squad IPM, New Country Launch, Data Team Standup
+* tickets
+   * links to Asana tickets
+   * links to Jira tickets
+* recruiting followups
+* schedule interviews
+* review large PR (this is likely something that came up mid-day)
 
-### Thursday, Oct 14th
-
-### Friday, Oct 15th
-
-# History
-All the previous week's standups get moved here. Then I start a clean standup.md file each year archiving the previous one. 
