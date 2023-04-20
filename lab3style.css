@@ -1,0 +1,24 @@
+/* This is a comment. */
+
+nav {
+    background-color: #336699;
+    color: white; 
+}
+  
+nav h2 {
+    color: hsla(39, 100%, 50%, 1);
+}
+  
+nav a {
+    color: rgba(255, 255, 255, 0.8); 
+}
+  
+nav a:hover {
+    color: #585c62;
+}
+
+body {
+    background-color: #f1f1f1; 
+}
+  
+  
