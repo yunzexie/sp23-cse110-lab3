@@ -2,15 +2,23 @@
 
 nav {
     background-color: #336699;
-    color: white; 
+    color: white;
+    margin-left: 10px;
+    padding-bottom: 1rem;
+
 }
   
 nav h2 {
     color: hsla(39, 100%, 50%, 1);
+    padding-top: 1em;
+    padding-left: 1vw;
+    margin-top: 15pt;
+    margin-bottom: 1pc;
 }
   
 nav a {
-    color: rgba(255, 255, 255, 0.8); 
+    color: rgba(255, 255, 255, 0.8);
+    
 }
   
 nav a:hover {
