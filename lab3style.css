@@ -69,3 +69,7 @@ body {
     text-decoration: underline;
     color:rgb(81, 83, 83);
 }
+
+.surveyform label {
+    display: block;
+}
