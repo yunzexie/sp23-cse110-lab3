@@ -47,6 +47,7 @@ body {
     border-width: 0.4em;
     border-radius: 100px;
     display: block;
+    text-align: center;
 }
 
 .pull-request h5{
@@ -57,4 +58,14 @@ body {
     border-color:aquamarine;
     border-width: 0.4em;
     border-radius: 100px;
+}
+
+.attendancelist,
+.headers {
+    text-align: center;
+}
+
+.teamlist {
+    text-decoration: underline;
+    color:rgb(81, 83, 83);
 }
