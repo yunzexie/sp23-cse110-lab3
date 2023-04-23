@@ -48,16 +48,35 @@ body {
     border-radius: 100px;
     display: block;
     text-align: center;
+    position: relative;
 }
 
 .pull-request h5{
     margin: 2em 2em 2em 2em;
     padding: 10px 10px 10px 10px;
-    display: inline-block;
     border-style: dashed;
     border-color:aquamarine;
     border-width: 0.4em;
-    border-radius: 100px;
+    border-radius: 10px;
+}
+
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: red;
+    color: white;
+}
+
+h5[attribute="thirdpullrequest"] {
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+#two {
+    position: relative;
+    top: -20px;
+    left: -20px;
+    background: blue;
 }
 
 .attendancelist,
@@ -68,8 +87,22 @@ body {
 .teamlist {
     text-decoration: underline;
     color:rgb(81, 83, 83);
+    
+}
+
+#agenda {
+    display: flex;
+    flex-direction: row;
 }
 
 .surveyform label {
     display: block;
+    height: 25px;
+    max-height: 50px;
+    width: auto;
+    max-width: max-content;
+}
+
+.my-button:active{
+    background-color: greenyellow;
 }
