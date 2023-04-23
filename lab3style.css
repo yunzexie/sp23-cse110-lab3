@@ -28,5 +28,33 @@ nav a:hover {
 body {
     background-color: #f1f1f1; 
 }
-  
-  
+
+.pull-request{
+    background-color:antiquewhite;
+}
+
+.pull-request h4{
+    margin-top: 3em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 0;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0;
+    border-style:dotted;
+    border-color:aquamarine;
+    border-width: 0.4em;
+    border-radius: 100px;
+    display: block;
+}
+
+.pull-request h5{
+    margin: 2em 2em 2em 2em;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    border-style: dashed;
+    border-color:aquamarine;
+    border-width: 0.4em;
+    border-radius: 100px;
+}
